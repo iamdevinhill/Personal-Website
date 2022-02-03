@@ -1,0 +1,9 @@
+body {
+  background-color: azure;
+}
+
+hr {
+  background-color: black;
+  border-style: none;
+  height: 2px;
+}
